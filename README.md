@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 just to check diff
 
 ###Copyright
-copyright notice
+copyright notice all rights reserved
